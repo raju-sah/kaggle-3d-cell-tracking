@@ -1,0 +1,13 @@
+{
+  "method": "unet_transformer",
+  "predict_seconds": 597.0905590057373,
+  "resume_schema": "biohub_0947_live_resume_v1",
+  "signature": "896c77c8e7155c2c4599bc72ce6e82d48a3fa7018b8a92d2c0a898b1520e0b34",
+  "status": "complete",
+  "test_stems": [
+    "44b6_0113de3b",
+    "44b6_0b24845f",
+    "6bba_05b6850b",
+    "6bba_05db0fb1"
+  ]
+}

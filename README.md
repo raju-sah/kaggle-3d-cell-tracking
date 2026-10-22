@@ -68,7 +68,9 @@ datasets listed in its `kernel-metadata.json`. Inference runs offline on Kaggle.
 
 Model weights (`*.pth`), run logs (`logs_v13/`, `logs_v14/`), prediction zarrs
 (`tracking_repo/`), downloaded competition data (`data/`), and `submission.csv`
-are regenerable artifacts and are gitignored.
+are regenerable artifacts and are gitignored. The local copies were deleted after
+the competition; checkpoint sources, submission hash, and regeneration steps are
+recorded in [`ARTIFACTS.md`](ARTIFACTS.md).
 
 ## Metric
 
