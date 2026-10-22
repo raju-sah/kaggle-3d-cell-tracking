@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Run logs and generated predictions
+logs_v*/
+tracking_repo/
+secondary_seed_weights/
+biohub_live_resume/
+submission.csv
+*.log
+
+# Competition data
+data/
+
+# Credentials / local tooling
+.kaggle/
+.env
+.DS_Store
+sample_submission.csv
