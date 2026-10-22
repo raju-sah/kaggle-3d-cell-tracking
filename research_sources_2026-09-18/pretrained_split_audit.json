@@ -1,0 +1,22 @@
+{
+  "primary_split_manifest": "Not included in public dataset file listing; primary manifest labels 400ep snapshot",
+  "secondary_train_count": 199,
+  "secondary_validation_count": 40,
+  "secondary_train_validation_overlap": 40,
+  "proxy8_overlap_with_secondary_train": [
+    "44b6_12dfb391",
+    "44b6_267148e4",
+    "44b6_2a2eff9f",
+    "44b6_341df25f",
+    "6bba_062c8d37",
+    "6bba_07e24132",
+    "6bba_085bf656",
+    "6bba_09961292"
+  ],
+  "proxy8_overlap_with_secondary_validation": [
+    "44b6_12dfb391",
+    "44b6_267148e4",
+    "44b6_2a2eff9f",
+    "44b6_341df25f"
+  ]
+}
